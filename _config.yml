@@ -1,3 +1,5 @@
+title: Portfolio Power BI
+description: Portfolio de dashboards desarrollados en Power BI Desktop
 timezone: Etc/UTC
 source: site
 
@@ -88,9 +90,10 @@ collections_config:
 collection_groups:
   - heading: Content
     collections:
-      - pages
+      - sobre mí
+      - cv 
       - projects
-      - testimonials
+      - contacto
   - heading: Blogging
     collections:
       - posts
